@@ -38,9 +38,19 @@ TBD and announced periodically.
 First meeting will take place on Friday, 9th of June at 11h, in CAUP's meeting room.
 Meetings will take no more than 1 hour.
 
+
+
+*Was this your idea?*  
+No, credit where credit is due: the idea came from Azalee Bostroem, who mentioned it at the Python in Astronomy 2017 conference, https://twitter.com/astro_az/status/862569588109791232.
+
+
 *What can I do?*  
 If you want to present a piece of code in the club, 
 reply to this email, open an issue here or stop one of us (Jason, Daniel, Guilherme or João) in the corridors.
 We would love to hear any thoughts, questions, or suggestion you have.
 
 If you do not want to receive emails about the Code Review Club, reply to this email telling us that.
+
+
+
+
