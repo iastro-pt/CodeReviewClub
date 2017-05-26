@@ -2,7 +2,7 @@ Dear all,
  
 We would like to start a Code Review Club in IA. 
 The first meeting will be integrated in this month's Programmers Club 
-and will take place on **Thursday 9th, 11h** in the meeting room. (THIS HOUR IS OCCUPIED!!!!!)
+and will take place on **Thursday 9th, 11h** in the meeting room.
 
 Questions:
 
