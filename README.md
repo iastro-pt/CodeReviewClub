@@ -17,4 +17,5 @@ A code review happens when a group of people get together to talk about a piece 
   - Write the comments and suggestions discussed during the meeting
   
 - if you are attending the meeting
-  - discuss the code and help the presenter make changes / solve problems / improve the code
+  - in the 24h before the meeting, feel free to go through the pull request the presenter created
+  - during the CRC, discuss the code and help the presenter make changes / solve problems / improve the code
