@@ -4,7 +4,7 @@ A code review happens when a group of people get together to talk about a piece 
 
 
 ### Next meeting: Friday, 9th of June, 13:30, CAUP's meeting room
-#### info about broadcast soon
+#### broadcast link: https://appear.in/ia-codereviewclub
 
 
 
