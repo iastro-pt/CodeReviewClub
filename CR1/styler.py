@@ -90,9 +90,9 @@ def styler(func):
     ## print the arguments, for debugging
     if kwargs.get('verbose', False):
       from pprint import pprint
-      print "Arguments were:"
-      print args
-      print pprint(kwargs)
+      print("Arguments were:")
+      print(args)
+      print(pprint(kwargs))
 
 
     figwidth, figheight = kwargs.get('figsize', (default_figwidth, default_figheight_factor))
@@ -154,7 +154,7 @@ def styler(func):
               ax.yaxis.get_major_formatter().set_useOffset(False)
               ax.xaxis.get_major_formatter().set_useOffset(False)
             except AttributeError:
-              print 'Cannot remove offset from axis, maybe using log axis?'
+              print('Cannot remove offset from axis, maybe using log axis?')
 
             try:
               if ax.is_colorbar and format_cbar:
@@ -172,7 +172,7 @@ def styler(func):
       if save is None:
         fig.show()
       else:
-        assert type(save) in (str, unicode)
+        assert type(save) in (str, str)
         fig.savefig(save, dpi=fig.dpi)
 
   return inner
